@@ -1,0 +1,9 @@
+{
+  "name": "openshift-on-powervs-demo",
+  "private": false,
+  "version": "1.0.0",
+  "description": "Yet another OpenShift Hello-World.",
+  "dependencies": {
+    "express": "4.x"
+  }
+}
